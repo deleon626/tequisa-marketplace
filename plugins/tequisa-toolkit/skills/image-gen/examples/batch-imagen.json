@@ -1,0 +1,43 @@
+{
+    "api": "imagen",
+    "model": "standard",
+    "person_gen": "dont_allow",
+    "images": [
+        {
+            "name": "product-hero",
+            "prompt": "Premium wireless earbuds product shot on white marble surface, soft studio lighting, professional e-commerce photography, minimal shadows, crisp details",
+            "aspect": "1:1",
+            "count": 4
+        },
+        {
+            "name": "product-lifestyle",
+            "prompt": "Wireless earbuds lifestyle shot on wooden desk with coffee cup and notebook, warm natural window light, shallow depth of field, cozy work-from-home aesthetic",
+            "aspect": "16:9",
+            "count": 2
+        },
+        {
+            "name": "packaging-mockup",
+            "prompt": "Minimalist product packaging box mockup, clean white box with subtle embossed logo, soft shadows on light gray background, premium unboxing experience",
+            "aspect": "4:3",
+            "count": 3
+        },
+        {
+            "name": "social-story",
+            "prompt": "Vertical social media story template background, abstract gradient with floating geometric shapes, vibrant coral and teal colors, modern and eye-catching",
+            "aspect": "9:16",
+            "count": 4
+        },
+        {
+            "name": "banner-promotional",
+            "prompt": "E-commerce promotional banner background, dynamic diagonal gradients in brand blue colors, abstract tech patterns, professional retail aesthetic",
+            "aspect": "16:9",
+            "count": 2
+        },
+        {
+            "name": "icon-set",
+            "prompt": "Flat design icon representing wireless connectivity, simple geometric shapes, single color blue on transparent background, consistent stroke width",
+            "aspect": "1:1",
+            "count": 4
+        }
+    ]
+}

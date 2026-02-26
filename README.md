@@ -6,7 +6,23 @@ Claude Code plugin marketplace by Denny Leonardo.
 
 | Plugin | Description |
 |--------|-------------|
-| [tequisa-toolkit](https://github.com/deleon626/tequisa-toolkit) | Docs loaders, meta-generators, Jina research, cargo quoting, AI image gen |
+| tequisa-toolkit | Docs loaders, meta-generators, Jina research, cargo quoting, AI image gen |
+
+## Structure
+
+```
+tequisa-marketplace/
+├── .claude-plugin/
+│   └── marketplace.json
+├── plugins/
+│   └── tequisa-toolkit/
+│       ├── .claude-plugin/
+│       │   └── plugin.json
+│       ├── commands/
+│       ├── skills/
+│       └── README.md
+└── README.md
+```
 
 ## Installation
 

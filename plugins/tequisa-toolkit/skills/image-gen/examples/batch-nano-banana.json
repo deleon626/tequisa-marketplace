@@ -1,0 +1,48 @@
+{
+    "api": "nano",
+    "model": "flash",
+    "thinking": false,
+    "images": [
+        {
+            "name": "hero-banner",
+            "prompt": "Modern tech startup hero banner: abstract flowing gradient in blue and purple, geometric shapes, professional and innovative feel, clean design with negative space on the left for text overlay",
+            "aspect": "16:9",
+            "size": "2K"
+        },
+        {
+            "name": "about-team",
+            "prompt": "Abstract illustration representing teamwork and collaboration: interconnected nodes and lines forming a network, warm orange and teal color palette, modern flat design style",
+            "aspect": "4:3"
+        },
+        {
+            "name": "services-icon-1",
+            "prompt": "Minimalist 3D icon representing cloud computing: stylized cloud with connected nodes, soft blue gradient background, clean isometric perspective, professional tech aesthetic",
+            "aspect": "1:1"
+        },
+        {
+            "name": "services-icon-2",
+            "prompt": "Minimalist 3D icon representing data analytics: abstract bar chart with glowing data points, purple and blue gradient, isometric view, matching style to cloud icon",
+            "aspect": "1:1"
+        },
+        {
+            "name": "services-icon-3",
+            "prompt": "Minimalist 3D icon representing AI and machine learning: stylized brain made of circuit patterns, glowing neural connections, blue and cyan colors, isometric perspective",
+            "aspect": "1:1"
+        },
+        {
+            "name": "testimonials-bg",
+            "prompt": "Subtle abstract background pattern: soft flowing waves in light gray and white, minimal and elegant, professional business aesthetic, suitable for overlaying text",
+            "aspect": "16:9"
+        },
+        {
+            "name": "cta-background",
+            "prompt": "Bold gradient background for call-to-action section: dynamic diagonal gradient from deep purple to vibrant blue, subtle geometric patterns, energetic and modern feel",
+            "aspect": "21:9"
+        },
+        {
+            "name": "blog-placeholder",
+            "prompt": "Generic tech blog post thumbnail: abstract digital landscape with code elements floating in space, futuristic atmosphere, blue and white color scheme",
+            "aspect": "16:9"
+        }
+    ]
+}

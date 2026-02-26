@@ -6,14 +6,10 @@
   "plugins": [
     {
       "name": "tequisa-toolkit",
-      "source": {
-        "source": "github",
-        "repo": "deleon626/tequisa-toolkit"
-      },
+      "source": "./plugins/tequisa-toolkit",
       "description": "Documentation loaders, meta-generators, Jina research tools, cargo quoting, and AI image generation",
       "version": "1.0.0",
       "author": { "name": "Denny Leonardo" },
-      "repository": "https://github.com/deleon626/tequisa-toolkit",
       "keywords": ["docs", "meta", "jina", "cargo", "image-gen"]
     }
   ]
