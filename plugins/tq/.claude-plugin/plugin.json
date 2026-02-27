@@ -1,0 +1,7 @@
+{
+  "name": "tq",
+  "description": "Documentation loaders, meta-generators, Jina research tools, cargo quoting, AI image generation, and skill creation",
+  "author": {
+    "name": "Denny Leonardo"
+  }
+}

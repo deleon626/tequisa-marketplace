@@ -1,7 +1,0 @@
-{
-  "name": "tequisa-toolkit",
-  "description": "Documentation loaders, meta-generators, Jina research tools, cargo quoting, and AI image generation",
-  "author": {
-    "name": "Denny Leonardo"
-  }
-}
