@@ -8,7 +8,7 @@
       "name": "tq",
       "source": "./plugins/tq",
       "description": "Documentation loaders, meta-generators, Jina research tools, cargo quoting, AI image generation, and skill creation",
-      "version": "1.3.0",
+      "version": "1.4.0",
       "author": { "name": "Denny Leonardo" },
       "keywords": ["docs", "meta", "jina", "cargo", "image-gen", "skill-creator"]
     }
